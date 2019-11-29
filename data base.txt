@@ -1,0 +1,9 @@
+The above SQL statement code will create the products table with the following columns:
+
+id — Unique ID for the product, this will be auto incremented.
+name — The name of the product.
+desc — The description of the product.
+price — The price of the product.
+rrp — The retail pricing, if you want a product on sale you put the value higher than the price.
+date_added — The date the product was added, we'll use this for sorting products.
+The SQL statement will also insert 4 example products, these are just examples for the tutorial, you can change/remove them later on.
